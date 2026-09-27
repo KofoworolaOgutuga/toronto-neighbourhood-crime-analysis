@@ -149,38 +149,3 @@ Crime statistics do not capture every incident because not every crime is report
 Neighbourhoods also differ in population, geography, commercial activity, transportation, tourism, and daytime population.
 
 Therefore, a high crime count does not automatically mean that every part of a neighbourhood is equally unsafe, and a low crime count does not mean that a neighbourhood has no safety concerns.
-
----
-
-## Academic Context
-
-This project was completed as an academic **City of Toronto Open Data analytics project**.
-
-The project required the use of publicly available data to identify an issue of interest, analyze the evidence, create a data story, and develop a recommendation supported by the analysis.
-
-The intended audience was non-technical, so the project emphasizes insights, meaning, and recommendations rather than technical instructions.
-
----
-
-## Author
-
-**Kofoworola Ogutuga**
-
-Business Analytics Student
-George Brown Polytechnic
-
----
-
-## Data Attribution
-
-Data used in this project is primarily sourced from the **City of Toronto Open Data Portal**.
-
-https://open.toronto.ca/
-
-Major Crime Indicators:
-
-https://open.toronto.ca/dataset/major-crime-indicators/
-
-Wellbeing Toronto: Safety:
-
-https://open.toronto.ca/dataset/wellbeing-toronto-safety/
