@@ -22,8 +22,6 @@ Rather than looking only at the number of reported crimes, this project consider
 
 Crime is not distributed evenly across Toronto. Some neighbourhoods experience substantially more reported incidents than others.
 
-This issue is personally relevant because of the project's connection to the area surrounding George Brown College's St. James Campus, including Moss Park.
-
 The analysis asks:
 
 * Which Toronto neighbourhoods have the highest levels of reported crime?
@@ -45,8 +43,6 @@ The project focuses on selected Toronto neighbourhoods identified through the an
 * Bay Street Corridor
 * Church-Yonge Corridor
 * Moss Park
-
-**Moss Park** receives additional attention because of its proximity to George Brown College's St. James Campus.
 
 ---
 
