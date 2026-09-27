@@ -67,21 +67,3 @@ Differences between neighbourhoods may also be influenced by:
 * Geographic differences
 
 These factors should be considered when interpreting the results.
-
----
-
-## Data Privacy
-
-Only public, non-sensitive data should be stored in this repository.
-
-Do not upload:
-
-* Personal information
-* Private school documents
-* Private SharePoint files
-* Passwords
-* API keys
-* Login information
-* Other confidential information
-
-The repository should contain public datasets or appropriately cleaned/derived data used for the project.
