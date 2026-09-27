@@ -2,60 +2,43 @@
 
 ## Business Analytics Project
 
-An exploratory business analytics project examining crime patterns across Toronto neighbourhoods using publicly available City of Toronto Open Data.
+This project analyzes reported crime patterns across selected Toronto neighbourhoods using publicly available data from the City of Toronto Open Data Portal.
 
-The project investigates which Toronto neighbourhoods experience higher levels of reported crime, how crime compares with neighbourhood population, whether crime patterns have changed over time, and what the data can tell us about community safety.
+The analysis examines which neighbourhoods have higher levels of reported crime, how crime compares with population, how crime levels have changed over time, and what the data may suggest about community safety.
 
-The analysis was developed as a City of Toronto Open Data project and focuses particularly on neighbourhoods relevant to the area surrounding George Brown College's St. James Campus.
+The project has a particular focus on **Moss Park and the surrounding area of George Brown College's St. James Campus**.
 
 ---
 
-## Project Question
+## Research Question
 
-### Is enough being done about neighbourhoods with the highest levels of reported crime in Toronto?
+> **Is enough being done to address reported crime in Toronto neighbourhoods with elevated crime levels?**
 
-The purpose of this project is not simply to identify which neighbourhoods have the most reported crime. Instead, the analysis asks what those numbers mean when considered alongside population, crime rates, historical patterns, and existing community safety efforts.
+Rather than looking only at the number of reported crimes, this project considers crime counts, crime rates, population, trends over time, and neighbourhood context.
 
 ---
 
 ## Why This Issue Matters
 
-Toronto is a large and diverse city, and crime is not distributed evenly across all neighbourhoods.
+Crime is not distributed evenly across Toronto. Some neighbourhoods experience substantially more reported incidents than others.
 
-This issue is particularly relevant to people who live, study, work, or travel through neighbourhoods with higher reported crime levels. The area surrounding George Brown College's St. James Campus also made this topic personally relevant to the project.
+This issue is personally relevant because of the project's connection to the area surrounding George Brown College's St. James Campus, including Moss Park.
 
-The analysis therefore looks beyond raw crime counts and asks:
+The analysis asks:
 
 * Which Toronto neighbourhoods have the highest levels of reported crime?
-* How different are these neighbourhoods from one another?
-* How does population affect the interpretation of crime counts?
-* What does the crime rate tell us that the raw number of incidents does not?
-* Have crime levels changed over time?
-* What factors may help explain differences between neighbourhoods?
-* What measures have been introduced to improve community safety?
-* What additional actions could be considered based on the evidence?
-
----
-
-## Objectives
-
-The main objectives of the project are to:
-
-1. Identify Toronto neighbourhoods with comparatively high levels of reported crime.
-2. Compare crime levels across selected neighbourhoods.
-3. Examine crime in relation to neighbourhood population.
-4. Analyze changes in reported crime over time where data permits.
-5. Examine the difference between raw crime counts and population-adjusted crime rates.
-6. Consider existing community safety initiatives and responses.
-7. Develop evidence-based recommendations based on the findings.
+* How high is crime compared with other neighbourhoods?
+* Does population change the interpretation of the crime numbers?
+* How have reported crime levels changed over time?
+* What types of crime contribute to the differences?
+* What has been done to address community safety?
+* What can the data tell us about potential areas for further action?
 
 ---
 
 ## Neighbourhoods Examined
 
-The analysis focuses on selected Toronto neighbourhoods identified through the data as having relatively high levels of reported crime.
-
-The project includes:
+The project focuses on selected Toronto neighbourhoods identified through the analysis as having relatively high levels of reported crime:
 
 * Waterfront Communities-The Island
 * West Humber-Clairville
@@ -63,168 +46,123 @@ The project includes:
 * Church-Yonge Corridor
 * Moss Park
 
-Moss Park receives additional attention because of its proximity to George Brown College's St. James Campus.
+**Moss Park** receives additional attention because of its proximity to George Brown College's St. James Campus.
 
 ---
 
 ## Data Sources
 
-The primary data comes from the City of Toronto Open Data Portal.
+The analysis primarily uses data from the **City of Toronto Open Data Portal**.
 
 ### Major Crime Indicators
 
-The Major Crime Indicators dataset provides information about reported major crime incidents in Toronto.
+The Major Crime Indicators dataset provides information about reported crime incidents in Toronto.
 
-Source:
-
+**Source:**
 https://open.toronto.ca/dataset/major-crime-indicators/
 
 ### Wellbeing Toronto: Safety
 
-The Wellbeing Toronto Safety dataset provides neighbourhood-level safety information that can be used to provide additional context to the crime analysis.
+The Wellbeing Toronto Safety dataset provides additional neighbourhood-level safety information and context.
 
-Source:
-
+**Source:**
 https://open.toronto.ca/dataset/wellbeing-toronto-safety/
 
-Additional City of Toronto Open Data sources may be used where necessary to provide population, neighbourhood, or community context.
+Additional City of Toronto Open Data may be used where necessary to provide population, neighbourhood, or community context.
 
 ---
 
 ## Tools Used
 
-The project used business analytics and data analysis tools including:
-
 * Microsoft Excel
 * Microsoft Access
-* Data cleaning and transformation
-* Data aggregation and comparison
-* Charts and visualizations
-* Microsoft PowerPoint for data storytelling
+* Microsoft PowerPoint
+* Data cleaning and preparation
+* Data analysis
+* Data visualization
 
-The purpose of the analysis was to communicate findings to a non-technical audience rather than to demonstrate database or spreadsheet functions.
-
----
-
-## Analysis Approach
-
-The project followed a general analytics workflow:
-
-**Data Collection → Data Cleaning → Data Preparation → Analysis → Visualization → Interpretation → Recommendation**
-
-### 1. Data Collection
-
-Publicly available datasets were collected from the City of Toronto Open Data Portal.
-
-### 2. Data Preparation
-
-The data was reviewed and prepared for analysis. This included selecting relevant fields, cleaning the data, and focusing the analysis on the neighbourhoods and crime measures relevant to the research question.
-
-### 3. Analysis
-
-The analysis examined:
-
-* Crime totals
-* Crime rates
-* Population context
-* Neighbourhood comparisons
-* Crime trends over time
-* Differences between raw counts and population-adjusted measures
-
-### 4. Visualization
-
-Charts and tables were created to communicate the findings clearly to a non-technical audience.
-
-### 5. Interpretation
-
-The analysis moved beyond simply identifying patterns by asking:
-
-> **So what does this mean?**
-
-The objective was to understand why the findings matter and what they could mean for residents, students, visitors, community organizations, and decision-makers.
+The project focuses on communicating meaningful findings rather than explaining technical spreadsheet or database functions.
 
 ---
 
-## Key Questions Explored
+## Analysis
 
-### What neighbourhoods have the most reported crime?
+The project follows the general analytics process:
 
-The analysis compares selected Toronto neighbourhoods to identify differences in reported crime levels.
+**Data Collection → Data Cleaning → Data Preparation → Analysis → Visualization → Insights → Recommendation**
 
-### How high is crime compared with other neighbourhoods?
+### Crime Counts
 
-Raw crime counts are compared across neighbourhoods to establish the size of the differences.
+Reported crime counts are compared across selected neighbourhoods to identify differences in the amount of reported crime.
 
-### Does population change the picture?
+### Population
 
-A neighbourhood with a larger population may naturally have more reported incidents. Population-adjusted crime rates therefore provide another perspective.
+Population is considered because neighbourhoods differ in size and the number of people living in or using them.
 
-### Has crime increased or decreased?
+### Crime Rates
 
-Where sufficient historical data is available, the project examines changes in reported crime over time.
+Crime rates provide another perspective by relating reported incidents to population.
 
-### What does a high crime rate mean?
+### Trends
 
-A high reported crime rate indicates that reported incidents are relatively high compared with the population used in the rate calculation. It does not automatically explain why the rate is high or establish that every part of a neighbourhood is equally unsafe.
+Historical data is examined where available to identify increases, decreases, or fluctuations in reported crime.
 
-### What has been done?
+### Crime Types
 
-The project considers existing community safety initiatives and publicly documented responses relevant to the neighbourhoods examined.
-
-### What should happen next?
-
-Recommendations are based on the evidence identified through the analysis rather than on crime counts alone.
+Different categories of crime are examined to understand what contributes to overall reported crime levels.
 
 ---
 
-## Key Findings
+## Key Insight
 
-The final findings are presented through the project's charts, presentation deck, and analysis documentation.
+One of the main lessons from this project is that **crime counts alone do not provide a complete picture of neighbourhood safety**.
 
-The analysis identifies differences in reported crime levels among the selected neighbourhoods and demonstrates why population context and crime rates are important when interpreting those differences.
+A neighbourhood may have more reported incidents because of factors such as population size, commercial activity, transportation, visitors, or other characteristics.
 
-> **Important:** Reported crime data represents incidents recorded by police and should not be interpreted as a complete measure of neighbourhood safety. Crime statistics can be affected by reporting behaviour, population characteristics, daytime population, commercial activity, tourism, policing, and other factors.
+For this reason, the analysis considers multiple measures rather than relying on one statistic.
 
 ---
 
 ## Recommendation
 
-The project recommends using a **data-informed, neighbourhood-specific approach to community safety** rather than relying exclusively on total crime counts.
+The analysis supports a **data-informed, neighbourhood-specific approach to community safety**.
 
-Areas with higher reported crime should be examined using multiple measures, including:
+Areas with elevated reported crime should be examined using multiple measures, including:
 
-* Crime type
-* Crime rate
+* Reported crime
+* Crime rates
 * Population
+* Crime type
 * Historical trends
-* Location patterns
+* Location
 * Existing safety initiatives
 * Community needs
 
-This approach can help decision-makers identify where additional attention may be useful while avoiding conclusions based on a single statistic.
+Potential areas for consideration include community-based safety programs, improved public-space conditions, community outreach, support services, and continued monitoring of neighbourhood crime trends.
+
+The purpose is not to label an entire neighbourhood based on crime statistics, but to use evidence to identify where further investigation and community-focused action may be appropriate.
 
 ---
 
-## Project Deliverables
+## Limitations
 
-This repository contains documentation and supporting materials for the project, including:
+The analysis is based on reported and recorded crime data.
 
-* Data source documentation
-* Analysis methodology
-* Findings and recommendations
-* Presentation materials
-* Selected visualizations
-* Documentation explaining the project
+Crime statistics do not capture every incident because not every crime is reported or recorded.
+
+Neighbourhoods also differ in population, geography, commercial activity, transportation, tourism, and daytime population.
+
+Therefore, a high crime count does not automatically mean that every part of a neighbourhood is equally unsafe, and a low crime count does not mean that a neighbourhood has no safety concerns.
 
 ---
 
 ## Academic Context
 
-This project was completed as an academic City of Toronto Open Data analytics project.
+This project was completed as an academic **City of Toronto Open Data analytics project**.
 
-The assignment required the use of publicly available Toronto data to identify an issue of interest, analyze the evidence, develop a data story, and provide a recommendation supported by the analysis.
+The project required the use of publicly available data to identify an issue of interest, analyze the evidence, create a data story, and develop a recommendation supported by the analysis.
 
-The intended audience for the project was non-technical, so the presentation emphasizes findings and implications rather than technical instructions.
+The intended audience was non-technical, so the project emphasizes insights, meaning, and recommendations rather than technical instructions.
 
 ---
 
@@ -237,21 +175,9 @@ George Brown Polytechnic
 
 ---
 
-## Disclaimer
-
-This project is for academic and portfolio purposes.
-
-Crime statistics describe reported incidents and should not be interpreted as a complete assessment of the safety, quality, or character of an entire neighbourhood or its residents.
-
-All conclusions are limited by the available public data and the methodology used in the analysis.
-
----
-
 ## Data Attribution
 
-Data used in this project is sourced primarily from the City of Toronto Open Data Portal.
-
-City of Toronto Open Data:
+Data used in this project is primarily sourced from the **City of Toronto Open Data Portal**.
 
 https://open.toronto.ca/
 
