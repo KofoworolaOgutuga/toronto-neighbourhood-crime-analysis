@@ -149,7 +149,6 @@ Several limitations should be considered when interpreting the project:
 * Crime counts and crime rates measure different aspects of the issue.
 * Changes in reported crime may be affected by multiple factors.
 * The analysis cannot establish that a particular factor directly caused changes in crime.
-* Public datasets may have different reporting periods, definitions, or levels of geographic detail.
 
 ## Intended Audience
 
@@ -166,14 +165,3 @@ The project focuses on communicating:
 
 The goal is to communicate the **"So what?"** behind the data rather than focusing on the technical process used to produce the analysis.
 
-## Academic Context
-
-This project was completed as part of the Business Analytics program at George Brown Polytechnic.
-
-It demonstrates the application of data analysis, data visualization, public datasets, and business decision-making to a real-world community issue.
-
-## Author
-
-**Kofoworola Ogutuga**
-Business Analytics Student
-George Brown Polytechnic
